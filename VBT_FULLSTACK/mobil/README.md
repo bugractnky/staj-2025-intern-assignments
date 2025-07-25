@@ -100,3 +100,5 @@ flutter test
 ## ✨ Katkı
 
 Pull request'ler ve öneriler memnuniyetle karşılanır. Lütfen katkıda bulunmadan önce bir issue açmayı unutmayın. Kod katkılarınızda test eklemeye ve kod standartlarına uymaya özen gösteriniz.
+---
+Not: Bu README dosyası, proje dokümantasyonu amacıyla Buğra Çetinkaya tarafından hazırlanmıştır.
