@@ -1,2 +1,0 @@
-/home/bugra/Desktop/VBT_FULLSTACK/mobil/build/.cxx/Debug/6r604t4k/x86_64/CMakeFiles/edit_cache.dir
-/home/bugra/Desktop/VBT_FULLSTACK/mobil/build/.cxx/Debug/6r604t4k/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
- /home/bugra/Desktop/VBT_FULLSTACK/mobil/.dart_tool/flutter_build/665ee7513b046c786e41573a5f160d4c/dart_build_result.json: 
