@@ -1,0 +1,97 @@
+.right-panel {
+  width: 735px;
+  height: 859px;
+  background: #000741;
+  border-radius: 15px;
+  position: absolute;
+  top: 21px;
+  left: 683px;
+  z-index: 2;
+}
+
+.panel-content {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.contact-info {
+  position: absolute;
+  top: 24px;
+  right: 36px;
+  z-index: 11;
+}
+
+.phone-number {
+  display: flex;
+  height: 23px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 22.5px;
+  color: #fff;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.phone-icon {
+  width: 14px;
+  height: 14px;
+  background-image: url('https://codia-f2c.s3.us-west-1.amazonaws.com/image/2025-07-24/oBHWXhKznJ.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 5px;
+  left: -20px;
+  overflow: hidden;
+  z-index: 10;
+}
+
+.illustration {
+  position: absolute;
+  top: 64px;
+  left: 123px;
+  z-index: 8;
+}
+
+.illustration-image {
+  width: 521px;
+  height: 521px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.panel-text {
+  position: absolute;
+  bottom: 130px;
+  left: 98px;
+  z-index: 5;
+}
+
+.panel-title {
+  display: block;
+  height: 60px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 60px;
+  color: #fff;
+  text-align: left;
+  white-space: nowrap;
+  margin: 0 0 4px 0;
+}
+
+.panel-subtitle {
+  display: block;
+  height: 30px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 30px;
+  color: #fff;
+  text-align: left;
+  white-space: nowrap;
+  margin: 0;
+}

@@ -1,0 +1,45 @@
+.btn {
+  font-family: 'Poppins', sans-serif;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  outline: none;
+}
+
+.btn-primary {
+  width: 429px;
+  height: 53px;
+  background: #0c21c1;
+  border-radius: 32px;
+  box-shadow: 0 4px 26px 0 rgba(0, 0, 0, 0.25);
+  color: #fff;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 25.5px;
+  position: absolute;
+  top: 595px;
+  left: 124px;
+  z-index: 38;
+}
+
+.btn-primary:hover:not(.btn-disabled) {
+  background: #0a1da8;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 30px 0 rgba(0, 0, 0, 0.3);
+}
+
+.btn-primary:active:not(.btn-disabled) {
+  transform: translateY(0);
+  box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+.btn-disabled {
+  background: #cccccc !important;
+  cursor: not-allowed !important;
+  transform: none !important;
+  box-shadow: none !important;
+}
+
+.btn-full-width {
+  width: 100%;
+}

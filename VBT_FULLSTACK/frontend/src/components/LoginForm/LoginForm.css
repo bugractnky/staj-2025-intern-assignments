@@ -1,0 +1,140 @@
+.login-form-section {
+  position: relative;
+  width: 100%;
+  max-width: 553px;
+  padding: 0 124px;
+}
+
+.form-header {
+  margin-bottom: 40px;
+}
+
+.form-title {
+  height: 45px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 45px;
+  color: #000;
+  text-align: left;
+  white-space: nowrap;
+  margin: 0 0 22px 0;
+  position: absolute;
+  top: 150px;
+  left: 124px;
+  z-index: 15;
+}
+
+.form-subtitle {
+  height: 24px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #000;
+  text-align: left;
+  white-space: nowrap;
+  margin: 0;
+  position: absolute;
+  top: 217px;
+  left: 124px;
+  z-index: 17;
+}
+
+.form-register-link {
+  width: 308px;
+  height: 24px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  white-space: nowrap;
+  margin: 0;
+  position: absolute;
+  top: 247px;
+  left: 124px;
+  z-index: 18;
+}
+
+.form-register-link .register-link {
+  font-weight: 600;
+  color: #0c21c1;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.form-register-link .register-link:hover {
+  text-decoration: underline;
+}
+
+.login-form {
+  position: relative;
+}
+
+.error-message {
+  font-family: 'Poppins', sans-serif;
+  font-size: 12px;
+  color: #e74c3c;
+  margin-bottom: 10px;
+}
+
+.general-error {
+  position: absolute;
+  top: 290px;
+  left: 124px;
+  width: 429px;
+  background: #ffeaea;
+  padding: 8px 12px;
+  border-radius: 4px;
+  border-left: 3px solid #e74c3c;
+  z-index: 20;
+}
+
+.form-options {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 19px 0 78px 0;
+  position: absolute;
+  top: 517px;
+  left: 124px;
+  width: 429px;
+  z-index: 35;
+}
+
+.remember-me {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.checkbox {
+  width: 15px;
+  height: 15px;
+  background: #fff;
+  border: 1px solid #000;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.checkbox-label {
+  font-family: 'Poppins', sans-serif;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 18px;
+  color: #000;
+}
+
+.forgot-password {
+  font-family: 'Poppins', sans-serif;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 18px;
+  color: #4c4c4c;
+  text-decoration: none;
+}
+
+.forgot-password:hover {
+  text-decoration: underline;
+}

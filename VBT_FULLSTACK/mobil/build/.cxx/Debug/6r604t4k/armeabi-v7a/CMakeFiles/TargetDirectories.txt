@@ -1,0 +1,2 @@
+/home/bugra/Desktop/VBT_FULLSTACK/mobil/build/.cxx/Debug/6r604t4k/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/bugra/Desktop/VBT_FULLSTACK/mobil/build/.cxx/Debug/6r604t4k/armeabi-v7a/CMakeFiles/rebuild_cache.dir
