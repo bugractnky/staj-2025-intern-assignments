@@ -1,0 +1,37 @@
+# Flutter & Dart
+VBT_FULLSTACK/mobil/.dart_tool/
+VBT_FULLSTACK/mobil/.packages
+VBT_FULLSTACK/mobil/build/
+VBT_FULLSTACK/mobil/ios/Flutter/Flutter.framework/
+VBT_FULLSTACK/mobil/ios/Flutter/Flutter.podspec
+VBT_FULLSTACK/mobil/ios/.symlinks/
+VBT_FULLSTACK/mobil/ios/Pods/
+VBT_FULLSTACK/mobil/.flutter-plugins
+VBT_FULLSTACK/mobil/.idea/
+VBT_FULLSTACK/mobil/*.iml
+
+# Android
+VBT_FULLSTACK/mobil/android/.gradle/
+VBT_FULLSTACK/mobil/android/app/build/
+
+# Web
+VBT_FULLSTACK/mobil/web/build/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Node (React)
+VBT_FULLSTACK/web/node_modules/
+VBT_FULLSTACK/web/dist/
+
+# .NET
+VBT_FULLSTACK/backend/bin/
+VBT_FULLSTACK/backend/obj/
+
