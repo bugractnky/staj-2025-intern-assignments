@@ -142,3 +142,6 @@ flutter run
 ## Lisans
 
 Bu proje yalnızca eğitim amaçlıdır. Kodlar açık kaynak değildir ve izinsiz kopyalanamaz.
+
+**Not:** Bu README dosyası, proje dokümantasyonu amacıyla Buğra Çetinkaya tarafından hazırlanmıştır.
+
